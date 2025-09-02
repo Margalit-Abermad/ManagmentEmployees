@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7FD2CA8-DE36-4D6E-BC44-3979066672BA}|TEST-CLAUDE_BACKAND\\TEST-CLAUDE_BACKAND.csproj|c:\\users\\user\\desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\test_claude\\test-claude-backand\\test-claude_backand\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7FD2CA8-DE36-4D6E-BC44-3979066672BA}|TEST-CLAUDE_BACKAND\\TEST-CLAUDE_BACKAND.csproj|solutionrelative:test-claude_backand\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5FA660-3FE3-404D-A95D-CAB47A16F23B}|Common\\Common.csproj|c:\\users\\user\\desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\test_claude\\test-claude-backand\\common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5FA660-3FE3-404D-A95D-CAB47A16F23B}|Common\\Common.csproj|solutionrelative:common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{360ECC92-CF3D-473C-BD88-5F1D87C70C05}|Service\\Service.csproj|c:\\users\\user\\desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\test_claude\\test-claude-backand\\service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{360ECC92-CF3D-473C-BD88-5F1D87C70C05}|Service\\Service.csproj|solutionrelative:service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8002C8D9-70BF-4BB9-B179-1AD6A5FC9482}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\test_claude\\test-claude-backand\\repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8002C8D9-70BF-4BB9-B179-1AD6A5FC9482}|Repository\\Repository.csproj|solutionrelative:repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\TEST-CLAUDE_BACKAND\\Program.cs",
+              "RelativeDocumentMoniker": "TEST-CLAUDE_BACKAND\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\TEST-CLAUDE_BACKAND\\Program.cs",
+              "RelativeToolTip": "TEST-CLAUDE_BACKAND\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T22:15:34.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\Common\\Class1.cs",
+              "RelativeDocumentMoniker": "Common\\Class1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\Common\\Class1.cs",
+              "RelativeToolTip": "Common\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T22:13:42.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\Service\\Class1.cs",
+              "RelativeDocumentMoniker": "Service\\Class1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\Service\\Class1.cs",
+              "RelativeToolTip": "Service\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T22:13:28.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\Repository\\Class1.cs",
+              "RelativeDocumentMoniker": "Repository\\Class1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\Repository\\Class1.cs",
+              "RelativeToolTip": "Repository\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T22:11:47.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

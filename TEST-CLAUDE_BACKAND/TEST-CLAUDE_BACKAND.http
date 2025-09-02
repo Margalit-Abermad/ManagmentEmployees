@@ -1,0 +1,6 @@
+@TEST_CLAUDE_BACKAND_HostAddress = http://localhost:5271
+
+GET {{TEST_CLAUDE_BACKAND_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
