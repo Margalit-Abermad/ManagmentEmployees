@@ -32,7 +32,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\user\\Desktop\\עטרת שלמה מערכת\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\עטרת שלמה מערכת\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\Repository\\Repository.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -51,6 +55,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[15.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",

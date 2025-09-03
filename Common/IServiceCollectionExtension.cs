@@ -6,7 +6,9 @@ namespace Common
     {
         public static IServiceCollection AddCommonLayer(this IServiceCollection services)
         {
-            services.AddAutoMapper(typeof(AutoMapper.MappingProfile));
+            services.AddAutoMapper(cfg => {
+                cfg.AddProfile<Common.AutoMapper.MappingProfile>();
+            });
 
             return services;
         }

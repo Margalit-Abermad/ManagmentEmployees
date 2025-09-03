@@ -13,3 +13,6 @@ C:\Users\user\Desktop\עטרת שלמה מערכת\TEST_CLAUDE\TEST-CLAUDE-BACKA
 C:\Users\user\Desktop\עטרת שלמה מערכת\TEST_CLAUDE\TEST-CLAUDE-BACKAND\Common\bin\Debug\net8.0\Common.runtimeconfig.json
 C:\Users\user\Desktop\עטרת שלמה מערכת\TEST_CLAUDE\TEST-CLAUDE-BACKAND\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
 C:\Users\user\Desktop\עטרת שלמה מערכת\TEST_CLAUDE\TEST-CLAUDE-BACKAND\Common\obj\Debug\net8.0\Common.genruntimeconfig.cache
+C:\Users\user\Desktop\עטרת שלמה מערכת\TEST_CLAUDE\TEST-CLAUDE-BACKAND\Common\bin\Debug\net8.0\Repository.dll
+C:\Users\user\Desktop\עטרת שלמה מערכת\TEST_CLAUDE\TEST-CLAUDE-BACKAND\Common\bin\Debug\net8.0\Repository.pdb
+C:\Users\user\Desktop\עטרת שלמה מערכת\TEST_CLAUDE\TEST-CLAUDE-BACKAND\Common\obj\Debug\net8.0\Common.csproj.Up2Date

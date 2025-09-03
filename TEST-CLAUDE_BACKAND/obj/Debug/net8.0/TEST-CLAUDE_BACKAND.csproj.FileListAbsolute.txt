@@ -107,3 +107,14 @@ C:\Users\user\Desktop\עטרת שלמה מערכת\TEST_CLAUDE\TEST-CLAUDE-BACKA
 C:\Users\user\Desktop\עטרת שלמה מערכת\TEST_CLAUDE\TEST-CLAUDE-BACKAND\TEST-CLAUDE_BACKAND\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\user\Desktop\עטרת שלמה מערכת\TEST_CLAUDE\TEST-CLAUDE-BACKAND\TEST-CLAUDE_BACKAND\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\user\Desktop\עטרת שלמה מערכת\TEST_CLAUDE\TEST-CLAUDE-BACKAND\TEST-CLAUDE_BACKAND\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\עטרת שלמה מערכת\TEST_CLAUDE\TEST-CLAUDE-BACKAND\TEST-CLAUDE_BACKAND\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\user\Desktop\עטרת שלמה מערכת\TEST_CLAUDE\TEST-CLAUDE-BACKAND\TEST-CLAUDE_BACKAND\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\עטרת שלמה מערכת\TEST_CLAUDE\TEST-CLAUDE-BACKAND\TEST-CLAUDE_BACKAND\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\עטרת שלמה מערכת\TEST_CLAUDE\TEST-CLAUDE-BACKAND\TEST-CLAUDE_BACKAND\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\עטרת שלמה מערכת\TEST_CLAUDE\TEST-CLAUDE-BACKAND\TEST-CLAUDE_BACKAND\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\עטרת שלמה מערכת\TEST_CLAUDE\TEST-CLAUDE-BACKAND\TEST-CLAUDE_BACKAND\bin\Debug\net8.0\Common.dll
+C:\Users\user\Desktop\עטרת שלמה מערכת\TEST_CLAUDE\TEST-CLAUDE-BACKAND\TEST-CLAUDE_BACKAND\bin\Debug\net8.0\Repository.dll
+C:\Users\user\Desktop\עטרת שלמה מערכת\TEST_CLAUDE\TEST-CLAUDE-BACKAND\TEST-CLAUDE_BACKAND\bin\Debug\net8.0\Service.dll
+C:\Users\user\Desktop\עטרת שלמה מערכת\TEST_CLAUDE\TEST-CLAUDE-BACKAND\TEST-CLAUDE_BACKAND\bin\Debug\net8.0\Common.pdb
+C:\Users\user\Desktop\עטרת שלמה מערכת\TEST_CLAUDE\TEST-CLAUDE-BACKAND\TEST-CLAUDE_BACKAND\bin\Debug\net8.0\Service.pdb
+C:\Users\user\Desktop\עטרת שלמה מערכת\TEST_CLAUDE\TEST-CLAUDE-BACKAND\TEST-CLAUDE_BACKAND\bin\Debug\net8.0\Repository.pdb
