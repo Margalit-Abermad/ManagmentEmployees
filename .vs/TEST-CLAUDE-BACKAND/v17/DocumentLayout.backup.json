@@ -57,21 +57,20 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Service",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\Service\\Service.csproj",
-              "RelativeDocumentMoniker": "Service\\Service.csproj",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\Service\\Service.csproj*",
-              "RelativeToolTip": "Service\\Service.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-03T10:21:48.742Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "Service\\Service.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\Service\\Service.csproj",
+              "RelativeToolTip": "Service\\Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-03T10:21:48.742Z"
             },
             {
               "$type": "Document",
@@ -79,9 +78,9 @@
               "Title": "IServiceCollectionExtention.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\Service\\IServiceCollectionExtention.cs",
               "RelativeDocumentMoniker": "Service\\IServiceCollectionExtention.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\Service\\IServiceCollectionExtention.cs*",
-              "RelativeToolTip": "Service\\IServiceCollectionExtention.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\Service\\IServiceCollectionExtention.cs",
+              "RelativeToolTip": "Service\\IServiceCollectionExtention.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-03T10:22:07.913Z",
               "EditorCaption": ""
@@ -92,12 +91,11 @@
               "Title": "IServiceCollectionExtention.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\Repository\\IServiceCollectionExtention.cs",
               "RelativeDocumentMoniker": "Repository\\IServiceCollectionExtention.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\Repository\\IServiceCollectionExtention.cs*",
-              "RelativeToolTip": "Repository\\IServiceCollectionExtention.cs*",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\Repository\\IServiceCollectionExtention.cs",
+              "RelativeToolTip": "Repository\\IServiceCollectionExtention.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T10:15:43.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T10:15:43.7Z"
             },
             {
               "$type": "Document",
@@ -109,8 +107,7 @@
               "RelativeToolTip": "Repository\\Models\\Project.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T09:33:33.57Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T09:33:33.57Z"
             },
             {
               "$type": "Document",

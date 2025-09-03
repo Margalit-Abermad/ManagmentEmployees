@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TEST-CLAUDE_BACKAND")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d3c71f87a1536ddf73de14cb8da82d867b1891d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb30f68990a85f85284bbdb5cd794f0aff1f5faa")]
 [assembly: System.Reflection.AssemblyProductAttribute("TEST-CLAUDE_BACKAND")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TEST-CLAUDE_BACKAND")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
