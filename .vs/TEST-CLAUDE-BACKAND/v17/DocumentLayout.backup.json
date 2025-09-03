@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{360ECC92-CF3D-473C-BD88-5F1D87C70C05}|Service\\Service.csproj|c:\\users\\user\\desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\test_claude\\test-claude-backand\\service\\iservicecollectionextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{360ECC92-CF3D-473C-BD88-5F1D87C70C05}|Service\\Service.csproj|solutionrelative:service\\iservicecollectionextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{360ECC92-CF3D-473C-BD88-5F1D87C70C05}|Service\\Service.csproj|c:\\users\\user\\desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\test_claude\\test-claude-backand\\service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{360ECC92-CF3D-473C-BD88-5F1D87C70C05}|Service\\Service.csproj|solutionrelative:service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8002C8D9-70BF-4BB9-B179-1AD6A5FC9482}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\test_claude\\test-claude-backand\\repository\\iservicecollectionextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8002C8D9-70BF-4BB9-B179-1AD6A5FC9482}|Repository\\Repository.csproj|solutionrelative:repository\\iservicecollectionextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -46,8 +54,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "Service\\Service.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\Service\\Service.csproj*",
+              "RelativeToolTip": "Service\\Service.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-03T10:21:48.742Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -56,18 +77,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "IServiceCollectionExtention.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\Service\\IServiceCollectionExtention.cs",
+              "RelativeDocumentMoniker": "Service\\IServiceCollectionExtention.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\Service\\IServiceCollectionExtention.cs*",
+              "RelativeToolTip": "Service\\IServiceCollectionExtention.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T10:22:07.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IServiceCollectionExtention.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\Repository\\IServiceCollectionExtention.cs",
               "RelativeDocumentMoniker": "Repository\\IServiceCollectionExtention.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\Repository\\IServiceCollectionExtention.cs*",
               "RelativeToolTip": "Repository\\IServiceCollectionExtention.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-03T10:15:43.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Project.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\Repository\\Models\\Project.cs",
               "RelativeDocumentMoniker": "Repository\\Models\\Project.cs",
@@ -80,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Employeeproject.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\Repository\\Models\\Employeeproject.cs",
               "RelativeDocumentMoniker": "Repository\\Models\\Employeeproject.cs",
@@ -92,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\Repository\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "Repository\\Models\\Employee.cs",
@@ -104,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\Repository\\Models\\Department.cs",
               "RelativeDocumentMoniker": "Repository\\Models\\Department.cs",
@@ -116,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "IService.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\Service\\IService.cs",
               "RelativeDocumentMoniker": "Service\\IService.cs",
@@ -128,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\Repository\\IRepository.cs",
               "RelativeDocumentMoniker": "Repository\\IRepository.cs",
@@ -140,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\TEST-CLAUDE_BACKAND\\Program.cs",
               "RelativeDocumentMoniker": "TEST-CLAUDE_BACKAND\\Program.cs",
@@ -152,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05E2\u05D8\u05E8\u05EA \u05E9\u05DC\u05DE\u05D4 \u05DE\u05E2\u05E8\u05DB\u05EA\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\Common\\Class1.cs",
               "RelativeDocumentMoniker": "Common\\Class1.cs",
