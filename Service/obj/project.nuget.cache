@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2gpi5rE/0BM=",
+  "dgSpecHash": "/wIFG6f14Pw=",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\Desktop\\עטרת שלמה מערכת\\TEST_CLAUDE\\TEST-CLAUDE-BACKAND\\Service\\Service.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
